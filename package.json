@@ -1,0 +1,16 @@
+{
+  "name": "Emaily",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "16.7.0",
+    "yarn": "1.22.5"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
